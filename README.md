@@ -5,13 +5,6 @@
     <img src="https://komarev.com/ghpvc/?username=Trixx4191&label=Profile%20views&color=00FFFF&style=flat-square" alt="Trixx4191's profile views" />
   </a>
 </p>
-## 📊 GitHub Stats & Trophies
-<p align="center">
-  <a href="https://github.com/Trixx4191">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Trixx4191&cache_seconds=7200&layout=compact&theme=vue&border_radius=10" alt="Trixx4191's GitHub Stats" />
-  </a>
-  <img src="https://streak-stats.demolab.com/?user=Trixx4191&theme=vue&hide_border=true&cache_seconds=86400" alt="Trixx4191's GitHub Streak" width="49%" />
-</p>
 
 ## 🔗 Connect with Me
 <p align="center">
