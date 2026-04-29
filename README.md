@@ -6,14 +6,14 @@
   </a>
 </p>
 
-<img src="none" alt="Banner" width="100%" />
+<img src="https://i.pinimg.com/originals/f5/03/b5/f503b5d3eceb6a2e621773eb53a2f39c.gif" alt="Banner" width="100%" />
 
 ## 📊 GitHub Stats & Trophies
 <p align="center">
   <a href="https://github.com/Trixx4191">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Trixx4191&cache_seconds=7200&layout=compact&theme=radical&border_radius=10" alt="Trixx4191's GitHub Stats" />
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Trixx4191&cache_seconds=7200&layout=compact&theme=vue&border_radius=10" alt="Trixx4191's GitHub Stats" />
   </a>
-  <img src="https://streak-stats.demolab.com/?user=Trixx4191&theme=radical&hide_border=true&cache_seconds=86400" alt="Trixx4191's GitHub Streak" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=Trixx4191&theme=vue&hide_border=true&cache_seconds=86400" alt="Trixx4191's GitHub Streak" width="49%" />
 </p>
 
 
@@ -64,7 +64,7 @@
 
 <p align="center">
   <a href="https://github.com/Trixx4191">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Trixx4191&langs_count=8&layout=compact&theme=radical&border_radius=10" alt="Top Languages" />
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Trixx4191&langs_count=8&layout=compact&theme=vue&border_radius=10" alt="Top Languages" />
   </a>
 </p>
 
@@ -82,9 +82,7 @@
   <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
 </p>
 
-<p align="center"><a href="https://www.buymeacoffee.com/chamidudili" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a></p>
-
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="Bottom Line" width="100%" />
+  <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" alt="Bottom Line" width="100%" />
 </div>
 
