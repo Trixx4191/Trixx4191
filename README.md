@@ -1,6 +1,6 @@
 # Hi, I'm Ibn Hassan 👋 — @Trixx4191
 
-🧠 AI & Python Developer | Computer Vision | Full-Stack Builder | Based in Ghana 🇬🇭
+🧠 AI & Python Developer | Computer Vision | Full-Stack Builder 
 
 I build intelligent systems and practical software — from AI assistants and 
 computer vision models to web apps and automation tools.
