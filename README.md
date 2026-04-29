@@ -6,8 +6,7 @@
   </a>
 </p>
 
-<img src="https://i.pinimg.com/originals/f5/03/b5/f503b5d3eceb6a2e621773eb53a2f39c.gif" alt="Banner" width="100%" />
-
+<img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" alt="Banner" width="100%" />
 ## 📊 GitHub Stats & Trophies
 <p align="center">
   <a href="https://github.com/Trixx4191">
