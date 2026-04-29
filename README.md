@@ -1,10 +1,17 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Trixx4191&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40" width="100%"/>
 
 <p align="center">
-  <a href="https://komarev.com/ghpvc/?username=Trixx4191">
+  <a href="https://komarev.com/ghpvc/?username=████████ ██████  ██ ██   ██ ██   ██ ██   ██  ██  █████   ██ 
+   ██    ██   ██ ██  ██ ██   ██ ██  ██   ██ ███ ██   ██ ███ 
+   ██    ██████  ██   ███     ███   ███████  ██  ██████  ██ 
+   ██    ██   ██ ██  ██ ██   ██ ██       ██  ██      ██  ██ 
+   ██    ██   ██ ██ ██   ██ ██   ██      ██  ██  █████   ██ 
+                                                            
+                                                            ">
     <img src="https://komarev.com/ghpvc/?username=Trixx4191&label=Profile%20views&color=00FFFF&style=flat-square" alt="Trixx4191's profile views" />
   </a>
 </p>
+<img src="https://i.pinimg.com/originals/f5/03/b5/f503b5d3eceb6a2e621773eb53a2f39c.gif" alt="Banner" width="100%" />
 
 <p align="center">
   <a href="https://www.linkedin.com/in/salih-al-hassan-739a3733a/">
