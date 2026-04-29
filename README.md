@@ -11,8 +11,7 @@
     <img src="https://komarev.com/ghpvc/?username=Trixx4191&label=Profile%20views&color=00FFFF&style=flat-square" alt="Trixx4191's profile views" />
   </a>
 </p>
-<img src="https://i.pinimg.com/originals/f5/03/b5/f503b5d3eceb6a2e621773eb53a2f39c.gif" alt="Banner" width="100%" />
-
+<div style="width:403px;max-width:100%;"><div style="height:0;padding-bottom:124.07%;position:relative;"><iframe width="403" height="500" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameBorder="0" src="https://imgflip.com/embed/aqf3ip"></iframe></div><p><a href="https://imgflip.com/gif/aqf3ip">via Imgflip</a></p></div>
 <p align="center">
   <a href="https://www.linkedin.com/in/salih-al-hassan-739a3733a/">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" />
