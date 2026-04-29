@@ -1,105 +1,90 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0d0d0d,100:6e40c9&text=Ibn%20Hassan%20%E2%80%94%20Trixx4191&fontSize=40&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Trixx4191&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40" width="100%"/>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Trixx4191&label=Profile%20Views&color=6e40c9&style=flat-square" alt="Profile Views" />
+  <a href="https://komarev.com/ghpvc/?username=Trixx4191">
+    <img src="https://komarev.com/ghpvc/?username=Trixx4191&label=Profile%20views&color=00FFFF&style=flat-square" alt="Trixx4191's profile views" />
+  </a>
 </p>
 
----
+<img src="none" alt="Banner" width="100%" />
 
+## 📊 GitHub Stats & Trophies
 <p align="center">
-  <em>AI & Python Developer &nbsp;·&nbsp; Computer Vision &nbsp;·&nbsp; Full-Stack Builder</em>
+  <a href="https://github.com/Trixx4191">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Trixx4191&cache_seconds=7200&layout=compact&theme=radical&border_radius=10" alt="Trixx4191's GitHub Stats" />
+  </a>
+  <img src="https://streak-stats.demolab.com/?user=Trixx4191&theme=radical&hide_border=true&cache_seconds=86400" alt="Trixx4191's GitHub Streak" width="49%" />
 </p>
 
+
+## 🛠️ Languages & Tools
+
+<h3 align="center">Programming Languages</h3>
 <p align="center">
-  Crafting intelligent systems and purposeful software — from AI assistants <br/>
-  and vision models to full-stack web applications.
-</p>
-
----
-
-## 🛠️ Tech Stack
-
-<h4 align="center">Languages</h4>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" title="Python"/>
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" title="C++"/>
-</p>
-
-<h4 align="center">Frontend</h4>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" title="React"/>
-  &nbsp;
-  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="40" title="Next.js"/>
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" title="HTML5"/>
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" title="CSS3"/>
-  &nbsp;
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" title="Tailwind CSS"/>
-</p>
-
-<h4 align="center">Backend & Database</h4>
-<p align="center">
-  <img src="https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-ar21.svg" width="40" title="Flask"/>
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" title="PostgreSQL"/>
-</p>
-
-<h4 align="center">Cloud & Tools</h4>
-<p align="center">
-  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="40" title="AWS"/>
-  &nbsp;
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" title="Git"/>
-  &nbsp;
-  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" width="40" title="VS Code"/>
-  &nbsp;
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" title="Postman"/>
-</p>
-
----
-
-## 📌 Featured Projects
-
-<p align="center">
-
-| Project | Description | Stack |
-|---|---|---|
-| [🤖 AI Assistant](https://github.com/Trixx4191/Ai_Assistant) | Personal AI assistant | Python |
-| [👁️ Robot Vision System](https://github.com/Trixx4191/robot_vision_system) | Face recognition, object detection & hand tracking | Python, OpenCV |
-| [🏨 Hotel App](https://github.com/Trixx4191/Hotel01) | Online hotel booking & services platform | TypeScript |
-| [📄 Arabic Text Extractor](https://github.com/Trixx4191/Arabic-Text-Extractor-) | Extract Arabic text from PDFs | Python |
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" />
 
 </p>
 
----
-
-## 📊 GitHub Stats
-
+<h3 align="center">Frontend</h3>
 <p align="center">
-  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Trixx4191&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" />
-  &nbsp;
-  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Trixx4191&langs_count=8&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" />
+  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" />
+
+</p>
+
+<h3 align="center">Backend</h3>
+<p align="center">
+  <img src="https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-ar21.svg" alt="Flask" width="40" />
+
+</p>
+
+<h3 align="center">Database</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" />
+
+</p>
+
+<h3 align="center">DevOps & Cloud</h3>
+<p align="center">
+  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="40" />
+
+</p>
+
+<h3 align="center">Tools</h3>
+<p align="center">
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" />
+
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Trixx4191&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="60%"/>
+  <a href="https://github.com/Trixx4191">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Trixx4191&langs_count=8&layout=compact&theme=radical&border_radius=10" alt="Top Languages" />
+  </a>
 </p>
 
----
-
-## 🔗 Connect
-
+## 🔗 Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/salih-al-hassan-739a3733a/">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" width="40" />
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" />
   </a>
-  &nbsp;&nbsp;
   <a href="mailto:trixx419@gmail.com">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" width="40" />
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="40" />
   </a>
 </p>
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:6e40c9,100:0d0d0d&section=footer" width="100%"/>
+<p align="center"><a href="https://www.buymeacoffee.com/chamidudili" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a></p>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="Bottom Line" width="100%" />
+</div>
+
